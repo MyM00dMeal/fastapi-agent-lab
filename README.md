@@ -128,6 +128,7 @@ Think of the agent as a **smart backend service** that reacts to user input and 
 Think like a backend engineer building an API **others will use**.
 Clarity and simplicity matter more than complexity.
 
+
 Happy building! 🚀
 
 
