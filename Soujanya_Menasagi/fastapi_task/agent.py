@@ -11,5 +11,7 @@ class CalculatorAgent:
             if b == 0:
                 raise ValueError("Division by zero")
             return a / b
+        elif operation == "mod":
+            return a % b
         else:
             raise ValueError("Invalid operation")
